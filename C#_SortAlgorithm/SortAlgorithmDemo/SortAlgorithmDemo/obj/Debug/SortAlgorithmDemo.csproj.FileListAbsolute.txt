@@ -1,0 +1,12 @@
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.exe.config
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.exe
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.pdb
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.csprojResolveAssemblyReference.cache
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.exe
+C:\DotNet\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.pdb
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.exe.config
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.exe
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.pdb
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.exe
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\bin\Debug\SortAlgorithmDemo.pdb
+C:\Users\victor.huang\Desktop\Git\structures_and_algorithm\C#_SortAlgorithm\SortAlgorithmDemo\SortAlgorithmDemo\obj\Debug\SortAlgorithmDemo.csprojResolveAssemblyReference.cache
